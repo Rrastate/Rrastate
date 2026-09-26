@@ -1,7 +1,4 @@
 <div align="center">
-  
-  <img width="832" height="1248" alt="picGitHub" src="https://github.com/user-attachments/assets/575b2325-3cdc-4465-88f6-93e2fe3a7b72" />
-  
   <h1>👋 Welcome to my digital workspace</h1>
   <p><i>Building the bridge between hardware, AI, and human interaction.</i></p>
   <p>
@@ -14,6 +11,12 @@
 
 <table width="100%" style="border-collapse: collapse; border: none;">
 <tr>
+<td width="50%" valign="top" style="border: none;" align="center">
+
+  <br><br>
+  <img width="832" height="1248" alt="picGitHub" src="https://github.com/user-attachments/assets/fcd39dd1-8c3f-40e9-baa7-50132aab3e37" />
+
+</td>
 <td width="50%" valign="top" style="border: none;">
 
 ### 👨‍💻 About Me
@@ -23,11 +26,8 @@ I specialize in designing and integrating intelligent robotic systems, bridging 
 *   **🎓 Academic Background:** Enrolled in the Master 2 Informatique & Robotique at the Université de Montpellier[cite: 3, 14].
 *   **🤖 Featured Project:** Developed a Distributed Client-Server Architecture to revitalize a SoftBank Robotics **Pepper** robot[cite: 14]. Offloaded heavy processing to an external GPU server running **Meta Llama 3.1**, **OpenAI Whisper (VAD pipeline)**, and **YOLOv8** for real-time "Fetch and Carry" tasks[cite: 14].
 *   **⚙️ Core Competencies:** Real-time embedded systems, PID trajectory control, FSM-based navigation, and social norm integration (proxemics and obstacle avoidance)[cite: 14].
-*   **🌱 Always Learning:** Passionate about continuous skill acquisition, tech watch, and hardware prototyping[cite: 3].
-*   **🤝 Community:** Active volunteer at Repair Café Grand Montpellier, repairing electronics to promote sustainability[cite: 3].
-
-</td>
-<td width="50%" valign="top" style="border: none;">
+*   **🌱 Always Learning:** Passionate about continuous skill acquisition, tech watch, and DIY prototyping[cite: 3].
+*   **🤝 Community:** Active volunteer at Repair Café Grand Montpellier, diagnosing and repairing electronics to promote eco-responsibility[cite: 3].
 
 ### 🛠️ Tech Stack & Tools
 
@@ -63,10 +63,6 @@ I specialize in designing and integrating intelligent robotic systems, bridging 
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
 <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
 
-</td>
-</tr>
-</table>
-
 ---
 ### 📫 Let's Connect!
 Looking for collaborations in robotics, AI integration, or C++/Python development[cite: 3]. 
@@ -74,6 +70,10 @@ Feel free to reach out! <br><br>
 <a href="mailto:chakib.labgaa@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
+
+</td>
+</tr>
+</table>
 
 <br>
 
