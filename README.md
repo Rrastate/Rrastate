@@ -7,8 +7,9 @@
 
 <table width="100%" style="border-collapse: collapse; border: none;">
 <tr>
-<td width="50%" valign="middle" style="border: none;" align="center">
+<td width="50%" valign="top" style="border: none;" align="center">
 
+  <br><br>
   <img width="294" height="428" alt="image" src="https://github.com/user-attachments/assets/318d1537-6bb2-4179-a70b-89956999cbce" />
 
 </td>
