@@ -14,7 +14,9 @@
 <td width="50%" valign="top" style="border: none;" align="center">
 
   <br><br>
-  <img width="832" height="1248" alt="picGitHub" src="https://github.com/user-attachments/assets/fcd39dd1-8c3f-40e9-baa7-50132aab3e37" />
+
+  <img width="832" height="1248" alt="picGitHub" src="https://github.com/user-attachments/assets/3f03e86b-deac-4378-9a46-81d076d4c158" />
+
 
 </td>
 <td width="50%" valign="top" style="border: none;">
