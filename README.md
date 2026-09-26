@@ -10,7 +10,7 @@
 <td width="50%" valign="top" style="border: none;" align="center">
 
   <br><br>
-  <img width="386" height="563" alt="image" src="https://github.com/user-attachments/assets/7c5c3268-510e-4083-bab3-8ba5bec4d8d9" />
+  <img width="413" height="338" alt="image" src="https://github.com/user-attachments/assets/9dcc5390-ba33-4e98-9691-1c1b844c4d54" />
 
 </td>
 <td width="50%" valign="top" style="border: none;">
