@@ -20,14 +20,14 @@
 <td width="50%" valign="top" style="border: none;">
 
 ### 👨‍💻 About Me
-I'm a **Computer Science & Robotics M.Sc. Student** based in Montpellier, France, and an active researcher associated with the **LIRMM**. 
+I'm a **Computer Science & Robotics M.Sc. Student** based in Montpellier, France[cite: 3], and an active researcher associated with the **LIRMM**. 
 I specialize in designing and integrating intelligent robotic systems, bridging legacy hardware with modern distributed AI architectures.
 
-*   **🎓 Academic Background:** Enrolled in the Master 2 Informatique & Robotique at the Université de Montpellier.
+*   **🎓 Academic Background:** Enrolled in the Master 2 Informatique & Robotique at the Université de Montpellier[cite: 3].
 *   **🤖 Featured Project:** Developed a Distributed Client-Server Architecture to revitalize a SoftBank Robotics **Pepper** robot. Offloaded heavy processing to an external GPU server running **Meta Llama 3.1**, **OpenAI Whisper (VAD pipeline)**, and **YOLOv8** for real-time "Fetch and Carry" tasks.
 *   **⚙️ Core Competencies:** Real-time embedded systems, PID trajectory control, FSM-based navigation, and social norm integration (proxemics and obstacle avoidance).
-*   **🌱 Always Learning:** Passionate about continuous skill acquisition, tech watch, and DIY prototyping.
-*   **🤝 Community:** Active volunteer at Repair Café Grand Montpellier, diagnosing and repairing electronics to promote eco-responsibility.
+*   **🌱 Always Learning:** Passionate about continuous skill acquisition, tech watch, and DIY prototyping[cite: 3].
+*   **🤝 Community:** Active volunteer at Repair Café Grand Montpellier, diagnosing and repairing electronics to promote eco-responsibility[cite: 3].
 
 ### 🛠️ Tech Stack & Tools
 
@@ -79,23 +79,19 @@ I specialize in designing and integrating intelligent robotic systems, bridging 
 
 ---
 
-<br>
-
----
 <div align="center">
   <h3>📊 GitHub Activity & Insights</h3>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Rrastate&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rrastate&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
+
 ---
 
-<br>
 <div align="center">
-  <h3>📫 Let's Connect!
+  <h3>📫 Let's Connect!</h3>
+  <p>Looking for collaborations in robotics, AI integration, or C++/Python development[cite: 3]. Feel free to reach out!</p>
   <br>
-  Looking for collaborations in robotics, AI integration, or C++/Python development. 
-  Feel free to reach out! <br><br>
   <a href="mailto:chakib.labgaa@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
