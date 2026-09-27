@@ -1,4 +1,8 @@
 <div align="center">
+  
+  <img width="2752" height="1536" alt="picGitHub" src="https://github.com/user-attachments/assets/dcaa1d3e-b150-44f3-9ae2-d99f54c0113e" />
+
+  <br><br>
   <h1>👋 Welcome to my digital workspace</h1>
   <p><i>Building the bridge between hardware, AI, and human interaction.</i></p>
   <p>
@@ -11,13 +15,7 @@
 
 <table width="100%" style="border-collapse: collapse; border: none;">
 <tr>
-<td width="50%" valign="top" style="border: none;" align="center">
-
-  <br><br>
-  <img width="832" height="1248" alt="picGitHub" src="https://github.com/user-attachments/assets/fcd39dd1-8c3f-40e9-baa7-50132aab3e37" />
-
-</td>
-<td width="50%" valign="top" style="border: none;">
+<td width="50%" valign="top" style="border: none; padding-right: 20px;">
 
 ### 👨‍💻 About Me
 I'm a **Computer Science & Robotics M.Sc. Student** based in Montpellier, France[cite: 3], and an active researcher associated with the **LIRMM**. 
@@ -28,6 +26,9 @@ I specialize in designing and integrating intelligent robotic systems, bridging 
 *   **⚙️ Core Competencies:** Real-time embedded systems, PID trajectory control, FSM-based navigation, and social norm integration (proxemics and obstacle avoidance).
 *   **🌱 Always Learning:** Passionate about continuous skill acquisition, tech watch, and DIY prototyping[cite: 3].
 *   **🤝 Community:** Active volunteer at Repair Café Grand Montpellier, diagnosing and repairing electronics to promote eco-responsibility[cite: 3].
+
+</td>
+<td width="50%" valign="top" style="border: none; padding-left: 20px;">
 
 ### 🛠️ Tech Stack & Tools
 
