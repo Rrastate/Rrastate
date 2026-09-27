@@ -92,7 +92,8 @@ I specialize in designing and integrating intelligent robotic systems, bridging 
 
 <br>
 <div align="center">
-  ### 📫 Let's Connect!
+  <h3>📫 Let's Connect!
+  <br>
   Looking for collaborations in robotics, AI integration, or C++/Python development. 
   Feel free to reach out! <br><br>
   <a href="mailto:chakib.labgaa@gmail.com">
