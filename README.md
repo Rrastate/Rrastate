@@ -14,52 +14,60 @@
 <td width="50%" valign="top" style="border: none;" align="center">
 
   <br><br>
-
-  <img width="832" height="1248" alt="picGitHub" src="https://github.com/user-attachments/assets/3f03e86b-deac-4378-9a46-81d076d4c158" />
-
+  <img width="832" height="1248" alt="picGitHub" src="https://github.com/user-attachments/assets/fcd39dd1-8c3f-40e9-baa7-50132aab3e37" />
 
 </td>
 <td width="50%" valign="top" style="border: none;">
 
 ### 👨‍💻 About Me
-I'm a **Computer Science & Robotics M.Sc. Student** based in Montpellier, France[cite: 3], and an active researcher associated with the **LIRMM**[cite: 14]. 
-I specialize in designing and integrating intelligent robotic systems, bridging legacy hardware with modern distributed AI architectures[cite: 14].
+I'm a **Computer Science & Robotics M.Sc. Student** based in Montpellier, France[cite: 3], and an active researcher associated with the **LIRMM**. 
+I specialize in designing and integrating intelligent robotic systems, bridging legacy hardware with modern distributed AI architectures.
 
-*   **🎓 Academic Background:** Enrolled in the Master 2 Informatique & Robotique at the Université de Montpellier[cite: 3, 14].
-*   **🤖 Featured Project:** Developed a Distributed Client-Server Architecture to revitalize a SoftBank Robotics **Pepper** robot[cite: 14]. Offloaded heavy processing to an external GPU server running **Meta Llama 3.1**, **OpenAI Whisper (VAD pipeline)**, and **YOLOv8** for real-time "Fetch and Carry" tasks[cite: 14].
-*   **⚙️ Core Competencies:** Real-time embedded systems, PID trajectory control, FSM-based navigation, and social norm integration (proxemics and obstacle avoidance)[cite: 14].
+*   **🎓 Academic Background:** Enrolled in the Master 2 Informatique & Robotique at the Université de Montpellier[cite: 3].
+*   **🤖 Featured Project:** Developed a Distributed Client-Server Architecture to revitalize a SoftBank Robotics **Pepper** robot. Offloaded heavy processing to an external GPU server running **Meta Llama 3.1**, **OpenAI Whisper (VAD pipeline)**, and **YOLOv8** for real-time "Fetch and Carry" tasks.
+*   **⚙️ Core Competencies:** Real-time embedded systems, PID trajectory control, FSM-based navigation, and social norm integration (proxemics and obstacle avoidance).
 *   **🌱 Always Learning:** Passionate about continuous skill acquisition, tech watch, and DIY prototyping[cite: 3].
 *   **🤝 Community:** Active volunteer at Repair Café Grand Montpellier, diagnosing and repairing electronics to promote eco-responsibility[cite: 3].
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages** <br>
+**Languages & Formats** <br>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly" />
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+<img src="https://img.shields.io/badge/XML-00599C?style=for-the-badge&logo=xml&logoColor=white" alt="XML" />
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
 
-**Robotics, AI & Vision** <br>
+**Robotics** <br>
 <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2" />
 <img src="https://img.shields.io/badge/Gazebo-EE4C2C?style=for-the-badge&logo=gazebo&logoColor=white" alt="Gazebo" />
 <img src="https://img.shields.io/badge/RViz2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="RViz2" />
+
+**AI & Computer Vision** <br>
 <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black" alt="YOLOv8" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper" />
 <img src="https://img.shields.io/badge/Llama_3.1-00599C?style=for-the-badge&logo=meta&logoColor=white" alt="Llama 3.1" />
 
-**Embedded & Electronics** <br>
+**Embedded & Microcontrollers** <br>
 <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
+<img src="https://img.shields.io/badge/PIC_Microcontroller-000000?style=for-the-badge&logo=microchip&logoColor=white" alt="PIC" />
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+<img src="https://img.shields.io/badge/AVR-C50000?style=for-the-badge&logo=atmel&logoColor=white" alt="AVR" />
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+<img src="https://img.shields.io/badge/mikroC-6B8E23?style=for-the-badge&logo=c&logoColor=white" alt="mikroC" />
 
 **Tools & Environment** <br>
 <img src="https://img.shields.io/badge/Kubuntu_22.04-0078D4?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Kubuntu" />
+<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt" />
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
