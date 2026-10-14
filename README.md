@@ -1,6 +1,6 @@
 <div align="center">
   
-<img width="2752" height="1536" alt="imgOK1" src="https://github.com/user-attachments/assets/90cddebc-c5bd-4261-ab42-d864acbb45c8" />
+<img width="2752" height="1536" alt="profilePicGithub" src="https://github.com/user-attachments/assets/5845b8a9-d475-4452-b87b-a172288841d0" />
 
   <br><br>
   <h1>👋 Welcome to my digital workspace</h1>
